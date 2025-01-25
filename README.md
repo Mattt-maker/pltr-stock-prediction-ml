@@ -1,7 +1,7 @@
-# PLTR Stock Prediction with Machine Learning
+# 📈 PLTR Stock Prediction with Machine Learning
 
 ## Project Overview  
-Predict **Palantir Technologies (PLTR)** stock price movements using historical data and news sentiment analysis. This project combines **financial analysis**, **natural language processing (NLP)**, and **machine learning** to forecast short-term price trends.
+Predict **Palantir Technologies (PLTR)** stock price movements using historical data and news sentiment analysis. This project combines financial analysis, natural language processing (NLP), and machine learning to forecast short-term price trends.
 
 ## Key Features  
 - **Sentiment Analysis**: Quantify market sentiment from financial news headlines.  
